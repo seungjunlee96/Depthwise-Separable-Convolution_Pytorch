@@ -55,9 +55,9 @@ class depthwise_separable_conv(nn.Module):
  
 ## To Do
 For example usage, please refer to `./example/Xception.py`.
-![Selection_023]('./images/Selection_023.png')
 
 ## references
 
-1.https://discuss.pytorch.org/t/depthwise-and-separable-convolutions-in-pytorch/7315
-2.[hoya012/pytorch-Xception](https://github.com/hoya012/pytorch-Xception)
+1.[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
+2.https://discuss.pytorch.org/t/depthwise-and-separable-convolutions-in-pytorch/7315
+3.[hoya012/pytorch-Xception](https://github.com/hoya012/pytorch-Xception)
