@@ -3,7 +3,7 @@ Implementation of Depthwise Separable Convolution
 
 ## Usage
 
-For example usage, please refer to `./example/xecption.py`.
+For example usage, please refer to `./example/Xception.py`.
 
 ## Explanation on Depthwise Separable Convolution
 ### 1.Depthwise Convolution
