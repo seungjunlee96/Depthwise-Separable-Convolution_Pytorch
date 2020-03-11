@@ -61,3 +61,4 @@ For example usage, please refer to `./example/Xception.py`.
 1.[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
 2.https://discuss.pytorch.org/t/depthwise-and-separable-convolutions-in-pytorch/7315
 3.[hoya012/pytorch-Xception](https://github.com/hoya012/pytorch-Xception)
+4.https://wingnim.tistory.com/104
