@@ -4,15 +4,13 @@ Implementation of Depthwise Separable Convolution
 Depthwise Separable Convolution was first introduced in [Xception: Deep Learning with Depthwise Separable Convolutions
 ](https://arxiv.org/pdf/1610.02357.pdf)
 
-## Usage
-
-
-* install via
+## Installation
 ```
 git clone https://github.com/seungjunlee96/DepthwiseSeparableConvolution_Pytorch.git
 cd DepthwiseSeparableConvolution_Pytorch/
 python3 setup.py install --user
 ```
+## Usage
 
 ```python
 from DepthwiseSeparableConvolution import depthwise_separable_conv
