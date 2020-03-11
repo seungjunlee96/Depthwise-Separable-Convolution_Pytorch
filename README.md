@@ -6,7 +6,6 @@ Depthwise Separable Convolution was first introduced in [Xception: Deep Learning
 
 ## Usage
 
-For example usage, please refer to `./example/Xception.py`.
 
 ## Explanation on Depthwise Separable Convolution
 ### 1.Depthwise Convolution
@@ -52,6 +51,11 @@ class depthwise_separable_conv(nn.Module):
     out = self.pointwise(out) 
     return out
  ```
+ 
+ 
+## To Do
+For example usage, please refer to `./example/Xception.py`.
+![Xception]('./images/Selection_023.png')
 
 ## references
 
