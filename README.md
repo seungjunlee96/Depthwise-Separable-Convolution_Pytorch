@@ -55,7 +55,7 @@ class depthwise_separable_conv(nn.Module):
  
 ## To Do
 For example usage, please refer to `./example/Xception.py`.
-![Xception]('./images/Selection_023.png')
+![Selection_023]('./images/Selection_023.png')
 
 ## references
 
