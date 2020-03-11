@@ -9,7 +9,10 @@ Depthwise Separable Convolution was first introduced in [Xception: Deep Learning
 
 ## Explanation on Depthwise Separable Convolution
 ### 1.Depthwise Convolution
+<p align="center">
 ![depthwise](./images/depthwise.png)
+</p>
+
 
 
 ```python
