@@ -1,4 +1,4 @@
-# DepthwiseSeparableConvolution_Pytorch
+# Depthwise Separable Convolution_Pytorch
 Implementation of Depthwise Separable Convolution
 
 Depthwise Separable Convolution was first introduced in [Xception: Deep Learning with Depthwise Separable Convolutions
