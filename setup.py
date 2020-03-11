@@ -19,6 +19,7 @@ setuptools.setup(
     install_requires=REQUIRED_PACKAGES,
     dependency_links=DEPENDENCY_LINKS,
     url='https://github.com/seungjunlee96/DepthwiseSeparableConvolution_Pytorch',
+    author='Seungjun Lee'
     license='MIT License',
     include_package_data=True,
     package_dir={},
