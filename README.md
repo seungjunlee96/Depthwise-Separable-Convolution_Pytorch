@@ -8,7 +8,19 @@ Depthwise Separable Convolution was first introduced in [Xception: Deep Learning
 
 
 * install via
-`python3 setup.py install`
+```
+git clone https://github.com/seungjunlee96/DepthwiseSeparableConvolution_Pytorch.git
+cd DepthwiseSeparableConvolution_Pytorch/
+python3 setup.py install --user
+```
+
+```python
+from DepthwiseSeparableConvolution import depthwise_separable_conv
+
+## In your Network
+depthwise_separable_conv(nin, nout, kernel_size = 3, padding = 1, bias=False)
+
+```
 
 
 
